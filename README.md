@@ -6,3 +6,6 @@
 
 <strong>Technology Used:</strong> <br/>HTML, CSS, and JAVASCRIPT <br/>JQuery <br/>Giphy API
 
+<strong>Project Link:</strong> <br/>
+https://jkblomer.github.io/GifTastic/
+
